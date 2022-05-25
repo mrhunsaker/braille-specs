@@ -34,3 +34,11 @@
 [BRF version](http://brailleauthority.org/mathscience/nemeth1972.zip)
 
 [Source](http://brailleauthority.org/mathscience/math-science.html)
+
+## [Braille Computer Notation](https://www.ukaaf.org/wp-content/uploads/2020/03/Braille-Computer-Notation-PDF.pdf)
+
+- _by_: Braille Authority of the United Kingdom
+- _published_: 1996, 2006
+- _language_: English
+
+For unknown reasons the standards document is not mentioned on the [standards page](https://www.ukaaf.org/standards/) of the [UK Association for Accessible formats](https://www.ukaaf.org/)
